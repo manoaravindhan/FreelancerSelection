@@ -1,0 +1,10 @@
+{"success": true,
+"total": 4,
+"message": "im_rest_get_project_languages: Data for target languages loaded",
+"data": [
+{"id": "272", "object_name": "fr-FR", "category_id": "272", "category_translated": "fr-FR", "tree_sortkey": "10000000000000000000010011111000"},
+{"id": "274", "object_name": "fr-CH", "category_id": "274", "category_translated": "fr-CH", "tree_sortkey": "10000000000000000000010011111010"},
+{"id": "271", "object_name": "FR", "category_id": "271", "category_translated": "FR", "tree_sortkey": "10000000000000000000010011110111"},
+{"id": "273", "object_name": "fr-BE", "category_id": "273", "category_translated": "fr-BE", "tree_sortkey": "10000000000000000000010011111001"}
+]
+}
